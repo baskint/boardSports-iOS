@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6716E61F-35A7-4268-8A34-F9F009A376BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BoardSports-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>682B18A1-072D-434B-A758-519884254E9E</key>
+		<string>ssh://github.com/baskint/boardSports-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BoardSports-iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>682B18A1-072D-434B-A758-519884254E9E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/baskint/boardSports-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>682B18A1-072D-434B-A758-519884254E9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>682B18A1-072D-434B-A758-519884254E9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>boardSports-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
