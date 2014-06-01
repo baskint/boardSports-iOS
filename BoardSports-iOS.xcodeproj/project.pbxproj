@@ -15,7 +15,7 @@
 		12C84C9A193B81CB00D74864 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 12C84C99193B81CB00D74864 /* AppDelegate.m */; };
 		12C84C9D193B81CB00D74864 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12C84C9B193B81CB00D74864 /* Main_iPhone.storyboard */; };
 		12C84CA0193B81CB00D74864 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12C84C9E193B81CB00D74864 /* Main_iPad.storyboard */; };
-		12C84CA3193B81CB00D74864 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12C84CA2193B81CB00D74864 /* ViewController.m */; };
+		12C84CA3193B81CB00D74864 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12C84CA2193B81CB00D74864 /* MainViewController.m */; };
 		12C84CA5193B81CB00D74864 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12C84CA4193B81CB00D74864 /* Images.xcassets */; };
 		12C84CAC193B81CB00D74864 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12C84CAB193B81CB00D74864 /* XCTest.framework */; };
 		12C84CAD193B81CB00D74864 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12C84C89193B81CA00D74864 /* Foundation.framework */; };
@@ -47,8 +47,8 @@
 		12C84C99193B81CB00D74864 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		12C84C9C193B81CB00D74864 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		12C84C9F193B81CB00D74864 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		12C84CA1193B81CB00D74864 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		12C84CA2193B81CB00D74864 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		12C84CA1193B81CB00D74864 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		12C84CA2193B81CB00D74864 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		12C84CA4193B81CB00D74864 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		12C84CAA193B81CB00D74864 /* BoardSports-iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BoardSports-iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12C84CAB193B81CB00D74864 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -118,8 +118,8 @@
 				12C84C99193B81CB00D74864 /* AppDelegate.m */,
 				12C84C9B193B81CB00D74864 /* Main_iPhone.storyboard */,
 				12C84C9E193B81CB00D74864 /* Main_iPad.storyboard */,
-				12C84CA1193B81CB00D74864 /* ViewController.h */,
-				12C84CA2193B81CB00D74864 /* ViewController.m */,
+				12C84CA1193B81CB00D74864 /* MainViewController.h */,
+				12C84CA2193B81CB00D74864 /* MainViewController.m */,
 				12C84CA4193B81CB00D74864 /* Images.xcassets */,
 				12C84C90193B81CB00D74864 /* Supporting Files */,
 			);
@@ -253,7 +253,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12C84CA3193B81CB00D74864 /* ViewController.m in Sources */,
+				12C84CA3193B81CB00D74864 /* MainViewController.m in Sources */,
 				12C84C9A193B81CB00D74864 /* AppDelegate.m in Sources */,
 				12C84C96193B81CB00D74864 /* main.m in Sources */,
 			);
@@ -470,6 +470,7 @@
 				12C84CBD193B81CB00D74864 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12C84CBE193B81CB00D74864 /* Build configuration list for PBXNativeTarget "BoardSports-iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +479,7 @@
 				12C84CC0193B81CB00D74864 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
