@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6716E61F-35A7-4268-8A34-F9F009A376BD</string>
+	<string>BB336293-5CFF-485A-BB42-63062D7A4D7F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>BoardSports-iOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>682B18A1-072D-434B-A758-519884254E9E</key>
-		<string>ssh://github.com/baskint/boardSports-iOS.git</string>
+		<key>3FC3FC211D521EA362E2377D2AB9AC9F141ACAAD</key>
+		<string>https://github.com/baskint/boardSports-iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>BoardSports-iOS.xcodeproj/project.xcworkspace</string>
+	<string>BoardSports-iOS/BoardSports-iOS.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>682B18A1-072D-434B-A758-519884254E9E</key>
-		<string>../..</string>
+		<key>3FC3FC211D521EA362E2377D2AB9AC9F141ACAAD</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/baskint/boardSports-iOS.git</string>
+	<string>https://github.com/baskint/boardSports-iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>682B18A1-072D-434B-A758-519884254E9E</string>
+	<string>3FC3FC211D521EA362E2377D2AB9AC9F141ACAAD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>682B18A1-072D-434B-A758-519884254E9E</string>
+			<string>3FC3FC211D521EA362E2377D2AB9AC9F141ACAAD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>boardSports-iOS</string>
 		</dict>

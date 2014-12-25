@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0510"
+   LastUpgradeVersion = "0610"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12C84C85193B81CA00D74864"
+               BlueprintIdentifier = "12A8C2391A4CA3D0004A7966"
                BuildableName = "BoardSports-iOS.app"
                BlueprintName = "BoardSports-iOS"
+               ReferencedContainer = "container:BoardSports-iOS.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "12A8C2511A4CA3D0004A7966"
+               BuildableName = "BoardSports-iOSTests.xctest"
+               BlueprintName = "BoardSports-iOSTests"
                ReferencedContainer = "container:BoardSports-iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12C84CA9193B81CB00D74864"
+               BlueprintIdentifier = "12A8C2511A4CA3D0004A7966"
                BuildableName = "BoardSports-iOSTests.xctest"
                BlueprintName = "BoardSports-iOSTests"
                ReferencedContainer = "container:BoardSports-iOS.xcodeproj">
@@ -42,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12C84C85193B81CA00D74864"
+            BlueprintIdentifier = "12A8C2391A4CA3D0004A7966"
             BuildableName = "BoardSports-iOS.app"
             BlueprintName = "BoardSports-iOS"
             ReferencedContainer = "container:BoardSports-iOS.xcodeproj">
@@ -61,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12C84C85193B81CA00D74864"
+            BlueprintIdentifier = "12A8C2391A4CA3D0004A7966"
             BuildableName = "BoardSports-iOS.app"
             BlueprintName = "BoardSports-iOS"
             ReferencedContainer = "container:BoardSports-iOS.xcodeproj">
@@ -79,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12C84C85193B81CA00D74864"
+            BlueprintIdentifier = "12A8C2391A4CA3D0004A7966"
             BuildableName = "BoardSports-iOS.app"
             BlueprintName = "BoardSports-iOS"
             ReferencedContainer = "container:BoardSports-iOS.xcodeproj">
